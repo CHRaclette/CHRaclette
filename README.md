@@ -157,7 +157,7 @@
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="28" />
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
-| Backup  | [Backup-system](https://github.com/CHRaclette/Backup-system) |  [GitHub](https://github.com/CHRaclette/Backup-system)   | `Ubuntu` `Visual Studio Code` |
+| Backup  | [Backup-system](https://github.com/CHRaclette/Backup-system) |  [GitHub](https://github.com/CHRaclette/Backup-system)   | `Ubuntu` `Visual Studio Code` `Hyper-v-Manager`|
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
