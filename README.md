@@ -152,14 +152,14 @@
   </tr>
 </table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="28" />
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
 | FileSync  | [FileSync](https://github.com/An0n-00/FileSync/releases/tag/Release) |  [GitHub](https://github.com/An0n-00/FileSync)   | `PowerShell` `Intellij Idea Ultimate` `Visual Studio Code` |
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
 <div align=center>
 <a href="https://github.com/an0n-00/">
@@ -173,7 +173,7 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0n-00&theme=cobalt&border_radius=8" />
 </a>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
 <!---
 CHRaclette/CHRaclette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
