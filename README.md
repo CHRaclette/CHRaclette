@@ -1,5 +1,5 @@
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width="1920" />
 <div align=center>
 <h1 align="center">Hi There, I'm CHRaclette 👋</h1>
 
@@ -21,7 +21,7 @@
 
 - 🤸 Code is like humor. When you have to explain it, it’s bad.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif" width="1920" />
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="24">
 
