@@ -3,9 +3,9 @@
 <h1 align="center">Hi There, I'm CHRaclette 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=CHRaclette&style=for-the-badge&label=Visitor" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
+  <a href="mailto:CHRaclette.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="CHRaclette.fx407@passmail.net" /></a>
 </div>
 
 <picture>
