@@ -7,8 +7,7 @@
 <!-- Badge -->
 <img src="https://komarev.com/ghpvc/?username=CHRaclette&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 
-<!-- Contact -->
-<a href="mailto:CHRaclette.fx4o7@passmail.net"><img src="https://img.shields.io/badge/Email-7438f8?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me!" /></a>
+
 
 ---
 
