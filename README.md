@@ -56,8 +56,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
 ## 🌱 Currently Learning
-- Docker & Kubernetes
-- Machine Learning with Python
+- OOP Development (java)
+- Starting with Leet Code
 - Web Development (HTML, CSS, JavaScript)
 
 ---
