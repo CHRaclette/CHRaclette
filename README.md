@@ -55,9 +55,9 @@
 
 ## 🌱 Currently Learning
 - OOP Development (Java)
-- Starting with Leet Code
-- Web Development (HTML, CSS, JavaScript)
-- CsHTML
+- c#
+- Tech Stuff like Windows
+- WPF
 
 ---
 
