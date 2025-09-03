@@ -31,7 +31,7 @@
 | Project Name   | Description | Repo Link | Tech Stack |
 | -------------- | ----------- | --------- | ---------- |
 | **Backup System** | A Linux-based automated backup tool using bash scripts. | [View on GitHub](https://github.com/CHRaclette/Backup-system) | `Bash` `Ubuntu` `Hyper-V Manager` |
-| **React App Example** | Demo project using React, TypeScript & Joy UI components. | [View on GitHub](#) | `React` `TypeScript` `Joy UI` |
+| **Ruumi** | A full-stack room reservation system built with React (frontend) and Spring Boot (backend). | [View on GitHub](https://github.com/CursedUser1291/m223-project) | `React` `TypeScript` `Joy UI` |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" width="1920" />
 
